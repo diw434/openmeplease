@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Love Page</title>
+  <style>
+    body {
+      text-align: center;
+      margin-top: 50px;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: pinkS;
+    }
+    h2 {
+      color: #dc143c;
+      font-size: 36px;
+    }
+    img {
+      width: 280px;
+      margin-top: 30px;
+      animation: heartBeat 2s infinite;
+    }
+    @keyframes heartBeat {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+  </style>
+</head>
+<body>
+  <h2>I love you so so so so much my babyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy ❤️❤️
+
+App sabse acche ho , aap sabse pyaaare bhooo , aap sabse sundarr hooooo 
+aap se hi ye duniyaaa hai meri, aap hi sab kuch ho ❤️
+
+
+PLEASE BABY MAAN JAO NA , I LOVEEEEEEE U A LOT !
+(bhut mehnat se banaya hai plz ,nirash mat karna) ❤️</h2>
+
+<img src="C:\Users\Asus\Downloads\heartjiggle.gif" width="50" height="50" style="position:absolute; bottom:10px; left:10px;">
+
+</body>
+</html>
